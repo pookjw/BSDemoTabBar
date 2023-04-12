@@ -7,7 +7,7 @@
 
 #import "UITabBar+BSCategory.h"
 #import <objc/message.h>
-#import <objc/message.h>
+#import <objc/runtime.h>
 
 static void *UITabBar_BSCategory_itemSpacing_associationKey;
 
